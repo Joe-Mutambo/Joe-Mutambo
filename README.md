@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joe-Mutambo
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently a cs student doing bachelors degree in computer science with specialty in software engineering
-- 💞️ I’m looking forward to collaborating and working on different software engineering and development tasks and other related tech roles.
-- 📫 How to reach me; you can reach me on whatsApp= +260972095886, facebook account = "joe mutambo", Linkedln = www.linkedin.com/in/joe-mutambo-322163205
+- 🌱 I’m currently a software engineer with a bachelors degree in computer science.
+- 💞️ I’m looking forward to joining a tech driven organisation and work on different technological roles that involve building computer applications that add value to humanity.
+- 📫 How to reach me; you can reach me on whatsApp= +260972095886, Linkedln = www.linkedin.com/in/joe-mutambo-322163205
