@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joe-Mutambo, a software engineer
-- 👀 I’m interested in software and web development related jobs
+- 👀 I’m interested in software engineering and web development related jobs
 - 🌱 I have a bachelors degree in computer science.
 - 💞️ I’m looking forward to joining a tech driven organisation and work on different technological roles that involve building computer applications that add value to humanity.
 - 📫 How to reach me; you can reach me on whatsApp= +260972095886, Linkedln = www.linkedin.com/in/joe-mutambo-322163205
